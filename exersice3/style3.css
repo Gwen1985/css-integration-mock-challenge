@@ -1,0 +1,19 @@
+body {
+width: 600px;
+margin:15% 25% 25% 35%;
+
+}
+
+header {
+	float: left;
+}
+
+main {
+	float: left;
+	width: 300px;
+}
+
+ footer {
+ 	padding-top: 30%;
+ 	padding-left: 30%;
+ }
