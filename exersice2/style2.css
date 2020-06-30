@@ -1,0 +1,39 @@
+body {
+background-color: gray;
+width: 400px;
+margin: 10% 25% 10% 40%;
+}
+
+header p {
+	font-size: 50px;
+}
+
+.container {
+	border: 1px solid blue;
+	background-color: #0779e4;
+	padding: 0% 10% 0% 10%;
+	color: white;
+}
+
+h1 {
+	font-size: 28px;
+}
+
+img {
+	margin-left: -15px;
+	width: 350px;
+}
+
+main table {
+	width:100%;
+	border-collapse: collapse;
+}
+
+thead {
+	text-align: left;
+}
+
+
+footer {
+	text-align: right;
+}
