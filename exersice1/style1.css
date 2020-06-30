@@ -1,0 +1,31 @@
+body {
+	box-sizing: border-box;	
+	padding-top: 5%;
+}
+
+header {
+	height: 150px;
+	width: auto;
+	text-align: center;
+}
+
+.grunt, .gulp, .githooks, .npm {
+	float: left;
+	width: 400px;
+	margin-left: 50px;
+}
+
+.grunt li, .gulp li, .githooks li, .npm li {
+	list-style-type:none;	
+	margin-left: 10%;
+	width: 250px;
+}
+
+h3 {
+	color: limegreen;
+	font-size: 25px;
+}
+
+p {
+	font-size: 18px;
+}
